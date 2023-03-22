@@ -12,11 +12,30 @@
 /wp-content/plugins/index.php
 /wp-content/themes/index.php
 /wp-includes/
-/index.php
+# /index.php
 /license.txt
 /readme.html
 /wp-*.php
 /xmlrpc.php
+
+# Ignorar los archivos de configuración de WordPress
+wp-config.php
+wp-config-sample.php
+
+# Ignorar los archivos de prueba de WordPress
+wp-tests-config.php
+tests/phpunit/includes/bootstrap.php
+tests/phpunit/includes/install.php
+tests/phpunit/includes/testcase.php
+tests/phpunit/data/
+
+# Ignorar los archivos de caché de WordPress
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup-db/
+
+# Ignorar las claves de API
+wp-content/secret-keys.php
 
 # Configuration
 wp-config.php
@@ -32,6 +51,7 @@ wp-config.php
 
 # Log files
 *.log
+error_log
 
 # htaccess
 /.htaccess

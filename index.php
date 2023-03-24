@@ -33,21 +33,3 @@ SSS    S*S    YSSP~YSSY    YSS'         S*S       S*S  S*S    SSS    Y~YSSY
        Y                                Y         Y    Y
 
 */
-
-/*
-  sSSs   .S    S.    .S_SSSs     .S_sSSs      sSSSSs    sSSs
- d%%SP  .SS    SS.  .SS~SSSSS   .SS~YS%%b    d%%%%SP   d%%SP
-d%S'    S%S    S%S  S%S   SSSS  S%S   `S%b  d%S'      d%S'
-S%S     S%S    S%S  S%S    S%S  S%S    S%S  S%S       S%S
-S&S     S%S SSSS%S  S%S SSSS%S  S%S    S&S  S&S       S&S
-S&S     S&S  SSS&S  S&S  SSS%S  S&S    S&S  S&S       S&S_Ss
-S&S     S&S    S&S  S&S    S&S  S&S    S&S  S&S       S&S~SP
-S&S     S&S    S&S  S&S    S&S  S&S    S&S  S&S sSSs  S&S
-S*b     S*S    S*S  S*S    S&S  S*S    S*S  S*b `S%%  S*b
-S*S.    S*S    S*S  S*S    S*S  S*S    S*S  S*S   S%  S*S.
- SSSbs  S*S    S*S  S*S    S*S  S*S    S*S   SS_sSSS   SSSbs
-  YSSP  SSS    S*S  SSS    S*S  S*S    SSS    Y~YSSY    YSSP
-               SP          SP   SP
-               Y           Y    Y
-
-*/
